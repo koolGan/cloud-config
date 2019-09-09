@@ -4,4 +4,4 @@ eureka :
       defaultZone: http://localhost:8761/eureka
 demo:  
   app: 
-    name: WELCOME TO SPRING CLOUD SERVER TRY TO CHNAGE.
+    name: WELCOME TO SPRING CLOUD SERVER .
